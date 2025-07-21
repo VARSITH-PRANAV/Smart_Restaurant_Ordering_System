@@ -1,0 +1,56 @@
+.payment-page {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 12px;
+    background: #f9f9f9;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  }
+  
+  .payment-page h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .no-items {
+    text-align: center;
+    color: #888;
+    font-size: 18px;
+  }
+  
+  .payment-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .payment-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #fff;
+    padding: 12px 16px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+  }
+  
+  .payment-item p {
+    margin: 0;
+    color: #444;
+  }
+  
+  .pay-btn {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 6px 14px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+  
+  .pay-btn:hover {
+    background-color: #218838;
+  }
+  

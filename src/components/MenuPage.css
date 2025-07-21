@@ -1,0 +1,131 @@
+.menu-container {
+  padding: 16px;
+}
+
+.menu-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 12px;
+  color: #333;
+  text-align: center; /* center title for mobile */
+}
+
+.menu-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 12px;
+}
+
+/* The cards */
+.menu-card {
+  border: 1px solid #ddd;
+  padding: 8px;
+  border-radius: 4px;
+  text-align: center;
+  background: #fff;
+  transition: transform 0.2s ease;
+}
+
+.menu-card:hover {
+  transform: translateY(-2px);
+}
+
+.menu-img {
+  width: 100%;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.menu-item-name {
+  font-size: 14px;
+  font-weight: bold;
+  margin: 4px 0;
+  color: #333;
+}
+
+.menu-item-type {
+  font-size: 12px;
+  color: #666;
+  margin: 2px 0;
+}
+
+.menu-item-price {
+  font-size: 12px;
+  color: #ff6600;
+  margin: 2px 0;
+}
+
+.add-btn, .remove-btn {
+  margin-top: 4px;
+  padding: 4px 6px;
+  font-size: 12px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.add-btn {
+  background-color: #ff6600;
+  color: #fff;
+}
+
+.remove-btn {
+  background-color: #db5050;
+  color: #fff;
+}
+
+.remove-btn:hover {
+  background-color: red;
+}
+
+/* --- Responsive adjustments --- */
+
+/* Medium screens (tablets) */
+@media (max-width: 768px) {
+  .menu-title {
+    font-size: 18px;
+  }
+
+  .menu-card {
+    padding: 6px;
+  }
+
+  .menu-img {
+    height: 90px;
+  }
+
+  .menu-item-name {
+    font-size: 13px;
+  }
+
+  .menu-item-type,
+  .menu-item-price {
+    font-size: 11px;
+  }
+}
+
+/* Small screens (mobile) */
+@media (max-width: 480px) {
+  .menu-title {
+    font-size: 16px;
+  }
+
+  .menu-img {
+    height: 80px;
+  }
+
+  .menu-item-name {
+    font-size: 12px;
+  }
+
+  .menu-item-type,
+  .menu-item-price {
+    font-size: 10px;
+  }
+
+  .add-btn, .remove-btn {
+    font-size: 11px;
+    padding: 3px 5px;
+  }
+}

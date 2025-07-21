@@ -1,0 +1,165 @@
+[
+    {
+      "id": 89,
+      "name": "Farmers Pick",
+      "amt": "299",
+      "shop": "Pizza Hut",
+      "ftype": "Pizza",
+      "pic": "https://www.app.tutorjoes.in/img/food/89.jpg",
+      "latest": "No"
+    },
+    {
+      "id": 124,
+      "name": "Paper Roast Dosa",
+      "amt": "65",
+      "shop": "Sri Sathiyavati",
+      "ftype": "Dosa",
+      "pic": "https://www.app.tutorjoes.in/img/food/124.jpg",
+      "latest": "No"
+    },
+    {
+      "id": 118,
+      "name": "Alfredo Pasta",
+      "amt": "185",
+      "shop": "LAXMISHI FOODS",
+      "ftype": "Veg",
+      "pic": "https://www.app.tutorjoes.in/img/food/118.jpg",
+      "latest": "Yes"
+    },
+    {
+      "id": 65,
+      "name": "Chicken 65",
+      "amt": "220",
+      "shop": "Sulem Re Biriyani",
+      "ftype": "Non-Veg",
+      "pic": "https://www.app.tutorjoes.in/img/food/65.jpg",
+      "latest": "No"
+    },
+    {
+      "id": 81,
+      "name": "Mom Mio Meal",
+      "amt": "299",
+      "shop": "Pizza Hut",
+      "ftype": "Pizza",
+      "pic": "https://www.app.tutorjoes.in/img/food/81.jpg",
+      "latest": "No"
+    },
+    {
+      "id": 78,
+      "name": "Mango Juice",
+      "amt": "77",
+      "shop": "JUICE HALL",
+      "ftype": "Juice",
+      "pic": "https://www.app.tutorjoes.in/img/food/78.jpg",
+      "latest": "No"
+    },
+    {
+      "id": 113,
+      "name": "Milk Lassi",
+      "amt": "77",
+      "shop": "Shri Gupta Sweets",
+      "ftype": "Sweet",
+      "pic": "https://www.app.tutorjoes.in/img/food/113.jpg",
+      "latest": "No"
+    },
+    {
+      "id": 120,
+      "name": "Vegetable Soup",
+      "amt": "123",
+      "shop": "Sri Sathiyavati",
+      "ftype": "Soup",
+      "pic": "https://www.app.tutorjoes.in/img/food/120.jpg",
+      "latest": "No"
+    },
+    {
+      "id": 119,
+      "name": "Paneer Tikka Dry",
+      "amt": "350",
+      "shop": "LAXMISHI FOODS",
+      "ftype": "Veg",
+      "pic": "https://www.app.tutorjoes.in/img/food/119.jpg",
+      "latest": "No"
+    },
+    {
+      "id": 109,
+      "name": "Chicken Afghani",
+      "amt": "355",
+      "shop": "Tandoori Wala",
+      "ftype": "Non-Veg",
+      "pic": "https://www.app.tutorjoes.in/img/food/109.jpg",
+      "latest": "No"
+    },
+    {
+      "id": 123,
+      "name": "Veg Seekh Kebab",
+      "amt": "230",
+      "shop": "Tandoori Wala",
+      "ftype": "Veg",
+      "pic": "https://www.app.tutorjoes.in/img/food/123.jpg",
+      "latest": "No"
+    },
+    {
+      "id": 110,
+      "name": "Jam Roll Cake",
+      "amt": "99",
+      "shop": "Henry & Wolsey",
+      "ftype": "Cake",
+      "pic": "https://www.app.tutorjoes.in/img/food/110.jpg",
+      "latest": "No"
+    },
+    {
+      "id": 111,
+      "name": "Vadai",
+      "amt": "30",
+      "shop": "Sri Sathiyavati",
+      "ftype": "Veg",
+      "pic": "https://www.app.tutorjoes.in/img/food/111.jpg",
+      "latest": "No"
+    },
+    {
+      "id": 112,
+      "name": "Halo Choco Sundae Meal",
+      "amt": "99",
+      "shop": "Sri Sathiyavati",
+      "ftype": "Icecream",
+      "pic": "https://www.app.tutorjoes.in/img/food/112.jpg",
+      "latest": "No"
+    },
+    {
+      "id": 106,
+      "name": "Choco Brownie",
+      "amt": "99",
+      "shop": "Shri Cakes Zone",
+      "ftype": "Cake",
+      "pic": "https://www.app.tutorjoes.in/img/food/106.jpg",
+      "latest": "No"
+    },
+    {
+      "id": 108,
+      "name": "Cotton Candy Scoop",
+      "amt": "99",
+      "shop": "Cream & Fudge",
+      "ftype": "Icecream",
+      "pic": "https://www.app.tutorjoes.in/img/food/108.jpg",
+      "latest": "No"
+    },
+    {
+      "id": 107,
+      "name": "Peri Peri Chicken Pizza",
+      "amt": "355",
+      "shop": "Pizza Hut",
+      "ftype": "Pizza",
+      "pic": "https://www.app.tutorjoes.in/img/food/107.jpg",
+      "latest": "No"
+    },
+    {
+      "id": 105,
+      "name": "Parotta",
+      "amt": "65",
+      "shop": "Pugal Ragu Bawa Tiffen Center",
+      "ftype": "Veg",
+      "pic": "https://www.app.tutorjoes.in/img/food/105.jpg",
+      "latest": "No"
+    }
+  ]
+  

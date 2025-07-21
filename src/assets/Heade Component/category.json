@@ -1,0 +1,173 @@
+[
+  {
+    "id": 101,
+    "name": "Starters",
+    "pic": "https://www.app.tutorjoes.in/img/food/89.jpg",
+    "details": [
+      {"id": 1011, "name": "Chicken Wings", "amount": 120, "pic": "https://picsum.photos/200?random=1011", "type": "non-veg"},
+      {"id": 1012, "name": "Spring Rolls", "amount": 90, "pic": "https://picsum.photos/200?random=1012", "type": "veg"},
+      {"id": 1013, "name": "Paneer Tikka", "amount": 110, "pic": "https://picsum.photos/200?random=1013", "type": "veg"},
+      {"id": 1014, "name": "Garlic Bread", "amount": 80, "pic": "https://picsum.photos/200?random=1014", "type": "veg"},
+      {"id": 1015, "name": "Veg Cutlet", "amount": 70, "pic": "https://picsum.photos/200?random=1015", "type": "veg"},
+      {"id": 1016, "name": "Fish Fingers", "amount": 130, "pic": "https://picsum.photos/200?random=1016", "type": "non-veg"},
+      {"id": 1017, "name": "Cheese Balls", "amount": 100, "pic": "https://picsum.photos/200?random=1017", "type": "veg"},
+      {"id": 1018, "name": "Chicken Pakora", "amount": 115, "pic": "https://picsum.photos/200?random=1018", "type": "non-veg"},
+      {"id": 1019, "name": "Crispy Corn", "amount": 95, "pic": "https://picsum.photos/200?random=1019", "type": "veg"},
+      {"id": 1020, "name": "Stuffed Mushrooms", "amount": 105, "pic": "https://picsum.photos/200?random=1020", "type": "veg"}
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Burger",
+    "pic": "https://picsum.photos/200?random=1071",
+    "details": [
+      {"id": 1021, "name": "Veg Burger", "amount": 60, "pic": "https://picsum.photos/200?random=1021", "type": "veg"},
+      {"id": 1022, "name": "Cheese Burger", "amount": 75, "pic": "https://picsum.photos/200?random=1022", "type": "veg"},
+      {"id": 1023, "name": "Chicken Burger", "amount": 90, "pic": "https://picsum.photos/200?random=1023", "type": "non-veg"},
+      {"id": 1024, "name": "Double Patty Burger", "amount": 120, "pic": "https://picsum.photos/200?random=1024", "type": "non-veg"},
+      {"id": 1025, "name": "Paneer Burger", "amount": 80, "pic": "https://picsum.photos/200?random=1025", "type": "veg"},
+      {"id": 1026, "name": "Spicy Burger", "amount": 85, "pic": "https://picsum.photos/200?random=1026", "type": "veg"},
+      {"id": 1027, "name": "Grilled Burger", "amount": 95, "pic": "https://picsum.photos/200?random=1027", "type": "non-veg"},
+      {"id": 1028, "name": "Mushroom Burger", "amount": 85, "pic": "https://picsum.photos/200?random=1028", "type": "veg"},
+      {"id": 1029, "name": "Egg Burger", "amount": 70, "pic": "https://picsum.photos/200?random=1029", "type": "non-veg"},
+      {"id": 1030, "name": "BBQ Burger", "amount": 110, "pic": "https://picsum.photos/200?random=1030", "type": "non-veg"}
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Pizza",
+    "pic": "https://picsum.photos/200?random=1027",
+    "details": [
+      {"id": 1031, "name": "Margherita", "amount": 150, "pic": "https://picsum.photos/200?random=1031", "type": "veg"},
+      {"id": 1032, "name": "Farmhouse", "amount": 180, "pic": "https://picsum.photos/200?random=1032", "type": "veg"},
+      {"id": 1033, "name": "Pepperoni", "amount": 200, "pic": "https://picsum.photos/200?random=1033", "type": "non-veg"},
+      {"id": 1034, "name": "Veggie Delight", "amount": 170, "pic": "https://picsum.photos/200?random=1034", "type": "veg"},
+      {"id": 1035, "name": "Paneer Pizza", "amount": 175, "pic": "https://picsum.photos/200?random=1035", "type": "veg"},
+      {"id": 1036, "name": "Chicken Supreme", "amount": 210, "pic": "https://picsum.photos/200?random=1036", "type": "non-veg"},
+      {"id": 1037, "name": "BBQ Chicken Pizza", "amount": 220, "pic": "https://picsum.photos/200?random=1037", "type": "non-veg"},
+      {"id": 1038, "name": "Cheese Burst", "amount": 190, "pic": "https://picsum.photos/200?random=1038", "type": "veg"},
+      {"id": 1039, "name": "Mushroom Pizza", "amount": 170, "pic": "https://picsum.photos/200?random=1039", "type": "veg"},
+      {"id": 1040, "name": "Mexican Green Wave", "amount": 185, "pic": "https://picsum.photos/200?random=1040", "type": "veg"}
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Pasta",
+    "pic": "https://picsum.photos/200?random=1040",
+    "details": [
+      {"id": 1041, "name": "White Sauce Pasta", "amount": 130, "pic": "https://picsum.photos/200?random=1041", "type": "veg"},
+      {"id": 1042, "name": "Red Sauce Pasta", "amount": 125, "pic": "https://picsum.photos/200?random=1042", "type": "veg"},
+      {"id": 1043, "name": "Mix Sauce Pasta", "amount": 140, "pic": "https://picsum.photos/200?random=1043", "type": "veg"},
+      {"id": 1044, "name": "Pesto Pasta", "amount": 150, "pic": "https://picsum.photos/200?random=1044", "type": "veg"},
+      {"id": 1045, "name": "Chicken Alfredo", "amount": 160, "pic": "https://picsum.photos/200?random=1045", "type": "non-veg"},
+      {"id": 1046, "name": "Spaghetti Bolognese", "amount": 170, "pic": "https://picsum.photos/200?random=1046", "type": "non-veg"},
+      {"id": 1047, "name": "Mac n Cheese", "amount": 140, "pic": "https://picsum.photos/200?random=1047", "type": "veg"},
+      {"id": 1048, "name": "Penne Arrabbiata", "amount": 135, "pic": "https://picsum.photos/200?random=1048", "type": "veg"},
+      {"id": 1049, "name": "Fusilli Primavera", "amount": 145, "pic": "https://picsum.photos/200?random=1049", "type": "veg"},
+      {"id": 1050, "name": "Shrimp Pasta", "amount": 180, "pic": "https://picsum.photos/200?random=1050", "type": "non-veg"}
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Desserts",
+    "pic": "https://picsum.photos/200?random=1053",
+    "details": [
+      {"id": 1051, "name": "Chocolate Cake", "amount": 90, "pic": "https://picsum.photos/200?random=1051", "type": "veg"},
+      {"id": 1052, "name": "Brownie", "amount": 80, "pic": "https://picsum.photos/200?random=1052", "type": "veg"},
+      {"id": 1053, "name": "Ice Cream", "amount": 60, "pic": "https://picsum.photos/200?random=1053", "type": "veg"},
+      {"id": 1054, "name": "Cheesecake", "amount": 110, "pic": "https://picsum.photos/200?random=1054", "type": "veg"},
+      {"id": 1055, "name": "Gulab Jamun", "amount": 50, "pic": "https://picsum.photos/200?random=1055", "type": "veg"},
+      {"id": 1056, "name": "Rasgulla", "amount": 55, "pic": "https://picsum.photos/200?random=1056", "type": "veg"},
+      {"id": 1057, "name": "Cupcake", "amount": 45, "pic": "https://picsum.photos/200?random=1057", "type": "veg"},
+      {"id": 1058, "name": "Fruit Salad", "amount": 70, "pic": "https://picsum.photos/200?random=1058", "type": "veg"},
+      {"id": 1059, "name": "Mousse", "amount": 95, "pic": "https://picsum.photos/200?random=1059", "type": "veg"},
+      {"id": 1060, "name": "Pudding", "amount": 85, "pic": "https://picsum.photos/200?random=1060", "type": "veg"}
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Beverages",
+    "pic": "https://picsum.photos/200?random=1067",
+    "details": [
+      {"id": 1061, "name": "Lemonade", "amount": 40, "pic": "https://picsum.photos/200?random=1061", "type": "veg"},
+      {"id": 1062, "name": "Mojito", "amount": 60, "pic": "https://picsum.photos/200?random=1062", "type": "veg"},
+      {"id": 1063, "name": "Cold Coffee", "amount": 70, "pic": "https://picsum.photos/200?random=1063", "type": "veg"},
+      {"id": 1064, "name": "Milkshake", "amount": 80, "pic": "https://picsum.photos/200?random=1064", "type": "veg"},
+      {"id": 1065, "name": "Iced Tea", "amount": 50, "pic": "https://picsum.photos/200?random=1065", "type": "veg"},
+      {"id": 1066, "name": "Orange Juice", "amount": 60, "pic": "https://picsum.photos/200?random=1066", "type": "veg"},
+      {"id": 1067, "name": "Mango Juice", "amount": 65, "pic": "https://picsum.photos/200?random=1067", "type": "veg"},
+      {"id": 1068, "name": "Banana Smoothie", "amount": 75, "pic": "https://picsum.photos/200?random=1068", "type": "veg"},
+      {"id": 1069, "name": "Watermelon Juice", "amount": 55, "pic": "https://picsum.photos/200?random=1069", "type": "veg"},
+      {"id": 1070, "name": "Buttermilk", "amount": 40, "pic": "https://picsum.photos/200?random=1070", "type": "veg"}
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Sandwich",
+    "pic": "https://picsum.photos/200?random=1080",
+    "details": [
+      {"id": 1071, "name": "Veg Sandwich", "amount": 50, "pic": "https://picsum.photos/200?random=1071", "type": "veg"},
+      {"id": 1072, "name": "Cheese Sandwich", "amount": 60, "pic": "https://picsum.photos/200?random=1072", "type": "veg"},
+      {"id": 1073, "name": "Chicken Sandwich", "amount": 80, "pic": "https://picsum.photos/200?random=1073", "type": "non-veg"},
+      {"id": 1074, "name": "Paneer Sandwich", "amount": 70, "pic": "https://picsum.photos/200?random=1074", "type": "veg"},
+      {"id": 1075, "name": "Egg Sandwich", "amount": 65, "pic": "https://picsum.photos/200?random=1075", "type": "non-veg"},
+      {"id": 1076, "name": "Club Sandwich", "amount": 85, "pic": "https://picsum.photos/200?random=1076", "type": "non-veg"},
+      {"id": 1077, "name": "Grilled Sandwich", "amount": 75, "pic": "https://picsum.photos/200?random=1077", "type": "veg"},
+      {"id": 1078, "name": "Mushroom Sandwich", "amount": 70, "pic": "https://picsum.photos/200?random=1078", "type": "veg"},
+      {"id": 1079, "name": "Corn Sandwich", "amount": 65, "pic": "https://picsum.photos/200?random=1079", "type": "veg"},
+      {"id": 1080, "name": "BBQ Sandwich", "amount": 90, "pic": "https://picsum.photos/200?random=1080", "type": "non-veg"}
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Salads",
+    "pic": "https://picsum.photos/200?random=1086",
+    "details": [
+      {"id": 1081, "name": "Green Salad", "amount": 40, "pic": "https://picsum.photos/200?random=1081", "type": "veg"},
+      {"id": 1082, "name": "Caesar Salad", "amount": 60, "pic": "https://picsum.photos/200?random=1082", "type": "non-veg"},
+      {"id": 1083, "name": "Greek Salad", "amount": 70, "pic": "https://picsum.photos/200?random=1083", "type": "veg"},
+      {"id": 1084, "name": "Fruit Salad", "amount": 50, "pic": "https://picsum.photos/200?random=1084", "type": "veg"},
+      {"id": 1085, "name": "Sprouts Salad", "amount": 55, "pic": "https://picsum.photos/200?random=1085", "type": "veg"},
+      {"id": 1086, "name": "Chicken Salad", "amount": 80, "pic": "https://picsum.photos/200?random=1086", "type": "non-veg"},
+      {"id": 1087, "name": "Pasta Salad", "amount": 65, "pic": "https://picsum.photos/200?random=1087", "type": "veg"},
+      {"id": 1088, "name": "Bean Salad", "amount": 55, "pic": "https://picsum.photos/200?random=1088", "type": "veg"},
+      {"id": 1089, "name": "Corn Salad", "amount": 50, "pic": "https://picsum.photos/200?random=1089", "type": "veg"},
+      {"id": 1090, "name": "Egg Salad", "amount": 60, "pic": "https://picsum.photos/200?random=1090", "type": "non-veg"}
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Noodles",
+    "pic": "https://picsum.photos/200?random=1099",
+    "details": [
+      {"id": 1091, "name": "Veg Noodles", "amount": 70, "pic": "https://picsum.photos/200?random=1091", "type": "veg"},
+      {"id": 1092, "name": "Chicken Noodles", "amount": 90, "pic": "https://picsum.photos/200?random=1092", "type": "non-veg"},
+      {"id": 1093, "name": "Egg Noodles", "amount": 80, "pic": "https://picsum.photos/200?random=1093", "type": "non-veg"},
+      {"id": 1094, "name": "Hakka Noodles", "amount": 75, "pic": "https://picsum.photos/200?random=1094", "type": "veg"},
+      {"id": 1095, "name": "Schezwan Noodles", "amount": 85, "pic": "https://picsum.photos/200?random=1095", "type": "veg"},
+      {"id": 1096, "name": "Prawn Noodles", "amount": 100, "pic": "https://picsum.photos/200?random=1096", "type": "non-veg"},
+      {"id": 1097, "name": "Paneer Noodles", "amount": 80, "pic": "https://picsum.photos/200?random=1097", "type": "veg"},
+      {"id": 1098, "name": "Chilli Garlic Noodles", "amount": 85, "pic": "https://picsum.photos/200?random=1098", "type": "veg"},
+      {"id": 1099, "name": "Singapore Noodles", "amount": 95, "pic": "https://picsum.photos/200?random=1099", "type": "non-veg"},
+      {"id": 1100, "name": "Mixed Noodles", "amount": 90, "pic": "https://picsum.photos/200?random=1100", "type": "non-veg"}
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Biryani",
+    "pic": "https://picsum.photos/200?random=1104",
+    "details": [
+      {"id": 1101, "name": "Veg Biryani", "amount": 100, "pic": "https://picsum.photos/200?random=1101", "type": "veg"},
+      {"id": 1102, "name": "Chicken Biryani", "amount": 150, "pic": "https://picsum.photos/200?random=1102", "type": "non-veg"},
+      {"id": 1103, "name": "Mutton Biryani", "amount": 180, "pic": "https://picsum.photos/200?random=1103", "type": "non-veg"},
+      {"id": 1104, "name": "Paneer Biryani", "amount": 130, "pic": "https://picsum.photos/200?random=1104", "type": "veg"},
+      {"id": 1105, "name": "Egg Biryani", "amount": 140, "pic": "https://picsum.photos/200?random=1105", "type": "non-veg"},
+      {"id": 1106, "name": "Hyderabadi Biryani", "amount": 160, "pic": "https://picsum.photos/200?random=1106", "type": "non-veg"},
+      {"id": 1107, "name": "Prawn Biryani", "amount": 175, "pic": "https://picsum.photos/200?random=1107", "type": "non-veg"},
+      {"id": 1108, "name": "Dum Biryani", "amount": 155, "pic": "https://picsum.photos/200?random=1108", "type": "non-veg"},
+      {"id": 1109, "name": "Kolkata Biryani", "amount": 165, "pic": "https://picsum.photos/200?random=1109", "type": "non-veg"},
+      {"id": 1110, "name": "Malabar Biryani", "amount": 170, "pic": "https://picsum.photos/200?random=1110", "type": "non-veg"}
+    ]
+  }
+
+]

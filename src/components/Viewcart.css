@@ -1,0 +1,121 @@
+.cart-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 0;
+  padding: 0 20px;
+}
+.cart-heading h1 {
+  font-size: 20px;
+  color: #333;
+  margin: 0;
+}
+.total-items{
+  text-align: center;
+  font-size: 28px;
+  color: #333;
+  margin: 20px 0;
+}
+.cart-container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 10px 20px;
+}
+
+.cart-product {
+  display: flex;
+  background-color: #fff8e7;         
+  border: 1px solid #eee;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.cart-product .img img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+
+}
+
+.cart-product-details {
+  flex: 1;
+  padding: 10px;
+}
+
+.cart-product-details h3 {
+  margin: 0;
+  font-size: 16px;
+  color: #333;
+}
+
+.cart-product-details p {
+  margin: 5px 0;
+  font-size: 14px;
+  color: #555;
+}
+
+.qty-control {
+  display: flex;
+  align-items: center;
+  margin-top: 5px;
+}
+
+.qty-control button {
+  width: 28px;
+  height: 28px;
+  background-color: #ff6600;
+  color: white;
+  border: none;
+  font-size: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.qty-control input {
+  width: 40px;
+  text-align: center;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin: 0 5px;
+}
+
+.remove-btn {
+  margin-top: 8px;
+  background-color: #ff6600;
+  color: #fff;
+  border: none;
+  padding: 5px 8px;
+  border-radius: 4px;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.cart-footer{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 0;
+  padding: 0 20px;
+}
+.cart-footer>button{
+  background-color: #ff6600;
+  border-radius: 5px;
+  border: none;
+  padding:8px;
+  color:white;
+  cursor: pointer;
+}
+.cart-footer > button:hover {
+  background-color: #e65500;  /* slightly darker on hover */
+  transform: scale(1.05);     /* slightly grow on hover */
+}
+.empty-cart-container{
+  height: 80vh;
+  width:70vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10vw;
+}

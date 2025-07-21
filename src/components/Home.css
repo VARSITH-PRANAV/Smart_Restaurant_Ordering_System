@@ -1,0 +1,86 @@
+* {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: #f5efe6;                /* warm background */
+  margin: 0;
+}
+
+/* Base container styles */
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 60vw;
+  margin: auto;
+  background: #fff8e7;                      /* light warm card background */
+  border: 2px solid #ffcc99;                /* subtle warm border */
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);     /* subtle shadow */
+  text-align: center;
+  padding: 20px;
+  position: fixed;
+  top: 25%;
+  left: 20%;
+}
+
+/* Title */
+.home-container h2 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 25px;
+}
+
+.enter-img {
+  width: 140px;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 8px;
+}
+
+.enter-img:hover {
+  transform: scale(1.08);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+/* --- Responsive adjustments --- */
+
+/* Tablets & medium screens */
+@media (max-width: 768px) {
+  .home-container {
+    width: 80vw;
+    top: 20%;
+    left: 10%;
+    padding: 16px;
+  }
+
+  .home-container h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+
+  .enter-img {
+    width: 120px;
+  }
+}
+
+/* Mobile & small screens */
+@media (max-width: 480px) {
+  .home-container {
+    width: 90vw;
+    top: 15%;
+    left: 5%;
+    padding: 14px;
+  }
+
+  .home-container h2 {
+    font-size: 18px;
+    margin-bottom: 18px;
+  }
+
+  .enter-img {
+    width: 100px;
+  }
+}

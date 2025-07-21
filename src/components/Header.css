@@ -1,0 +1,149 @@
+.nav-container {
+  background-color: #ffe3bd;
+  border-bottom: 1px solid #eee;
+  min-height: 60px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 16px;
+  flex-wrap: wrap;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  margin-bottom: 6px; /* for wrap on small screens */
+}
+
+.logo .icon {
+  width: 30px;
+  height: 30px;
+  margin-right: 8px;
+}
+
+.logo .brand {
+  font-weight: bold;
+  font-size: 16px;
+  color: #333;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 12px;
+  margin: 0;
+  padding: 0;
+  flex-wrap: wrap;
+}
+
+.nav-links li a {
+  text-decoration: none;
+  color: #333;
+  font-size: 14px;
+  padding: 4px 6px;
+  border-radius: 4px;
+}
+
+.nav-links li a.active {
+  color: #ff6600;
+  font-weight: 500;
+  border-bottom: 2px solid #ff6600;
+}
+
+.cart-count {
+  background: #ff6600;
+  color: #fff;
+  font-size: 10px;
+  padding: 2px 5px;
+  border-radius: 10px;
+  margin-right: 3px;
+}
+
+.item-category {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  padding: 12px 8px;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  scroll-behavior: smooth;
+
+  /* thin colored scrollbar for Firefox and some modern browsers */
+  scrollbar-width: thin;
+  scrollbar-color: #ff6600 #f0f0f0;
+}
+
+.item-category > div {
+  flex: 0 0 auto;
+  text-align: center;
+  cursor: pointer;
+  width: 70px;
+}
+
+.item-category > div img {
+  width: 100%;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.item-category > div p {
+  font-size: 12px;
+  margin-top: 4px;
+  color: #333;
+}
+
+.item-category .category-active img {
+  border: 3px solid #ff6600;
+}
+
+.item-category .category-active p {
+  color: #ff6600;
+}
+
+/* Media queries for responsiveness */
+
+/* Tablets & small screens: nav-links stack below logo */
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .nav-links {
+    width: 100%;
+    justify-content: space-around;
+    margin-top: 6px;
+  }
+
+  .logo {
+    margin-bottom: 4px;
+  }
+}
+
+/* Extra small screens: smaller fonts and spacing */
+@media (max-width: 480px) {
+  .nav-links li a {
+    font-size: 12px;
+    padding: 2px 4px;
+  }
+
+  .logo .brand {
+    font-size: 14px;
+  }
+
+  .item-category > div {
+    width: 60px;
+  }
+
+  .item-category > div img {
+    height: 45px;
+  }
+
+  .item-category > div p {
+    font-size: 11px;
+  }
+}
